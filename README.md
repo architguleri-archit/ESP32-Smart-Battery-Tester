@@ -12,7 +12,7 @@ Measure 1.5V AA/AAA cell voltage accurately using ESP32 and a 16x2 LCD display.
 - High voltage warning (fast blink)  
 - Smooth startup animation  
 - Calibration support  
-- ~1% error compared to multimeter  
+- Accurate readings compared to a multimeter  
 
 ---
 
