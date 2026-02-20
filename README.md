@@ -27,7 +27,7 @@ Measure 1.5V AA/AAA cell voltage accurately using ESP32 and a 16x2 LCD display.
 | VO      | GND        |
 | RS      | GPIO 14    |
 | RW      | GND        |
-| E       | GPIO 27    |
+| EN       | GPIO 27    |
 | D4      | GPIO 26    |
 | D5      | GPIO 25    |
 | D6      | GPIO 33    |
