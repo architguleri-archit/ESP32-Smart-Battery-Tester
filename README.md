@@ -42,7 +42,7 @@ Measure 1.5V AA/AAA cell voltage accurately using ESP32 and a 16x2 LCD display.
 | Connection | Details |
 |------------|----------|
 | Battery +  | 330kΩ → GPIO 34 |
-| GPIO 34    | 330kΩ → 330kΩ → GND |
+| GPIO 34    | 330kΩ → GND |
 | Battery –  | GND |
 
 Divider Ratio = 2.0
